@@ -12,6 +12,7 @@ A software enthusiast, learning new and trending software stuffs out there!
 1) Android [Java, React Native]
 2) Web Frontend [React]
 3) Backend [NodeJS] 
+4) Cross Platform
 
 <img src = "https://cdn.vox-cdn.com/thumbor/kL-Z76ZSmU6AUOBanezRDqSQ7us=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19086219/Android_logo_stacked__RGB_.jpg" height="50px" width="50px"/>   <img src = "https://ensocore.com/media/61/reactjs-logo-sticker%20%281%29.jpg" height = "50px" width = "50px">   <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height = "50px" width = "100px">
 
