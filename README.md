@@ -7,7 +7,7 @@ A software enthusiast, learning new and trending software stuffs out there!
 
 
 
-## Tech Staks
+## Tech Stacks
 
 1) Android [Java, React Native]
 2) Web Frontend [React]
