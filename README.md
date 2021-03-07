@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a B.Tech undergraduate from MNNIT, Prayagraj with Electronics and Communication Engineering major. <br/>
+A B.Tech undergraduate from MNNIT, Prayagraj with Electronics and Communication Engineering major. <br/>
 A software enthusiast, learning new and trending software stuffs out there!
 
 
