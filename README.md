@@ -31,5 +31,5 @@ A software enthusiast, learning new and trending software stuffs out there!
   [LinkedIn](https://www.linkedin.com/in/om-singh-5092/)
   
   
-  ## Github status <br/>
-  [![Om Singh's status](https://github-readme-stats.vercel.app/api?username=OmSingh5092)](https://github.com/anuraghazra/github-readme-stats)
+  ## Github Stats <br/>
+  [![Om Singh's Stats](https://github-readme-stats.vercel.app/api?username=OmSingh5092)](https://github.com/anuraghazra/github-readme-stats)
